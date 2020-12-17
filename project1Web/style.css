@@ -1,0 +1,90 @@
+
+html {
+
+    height: 100%;    
+}
+
+
+
+body {
+    background-color: #2F3025;
+    background-image: url(images/restaurant-interior.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center; 
+
+}
+
+nav {
+    background-color:rgba(0, 0, 0, 0.301);
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+main p {
+    font-size: 20px;
+
+}
+footer {
+    background-color:rgba(0, 0, 0, 0.301);
+    margin-bottom: 40px;
+    height: 30px;
+    margin-top: 100px;
+    text-align: center;
+    
+    
+}
+h1 {
+    font-size: 50px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+p {
+    font-size: 16px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: rgb(229, 237, 240);
+    font-family: Arial, Helvetica, sans-serif;
+  /*  text-decoration: none;*/
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.maps {
+    padding-top: 100px;
+
+}
